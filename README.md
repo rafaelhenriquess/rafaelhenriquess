@@ -6,7 +6,7 @@
 - 😄 Pronomes: Ele/Dele
 
 <div>
-  <a href="https://github.com/rafaelhenriquess"
+  <a href=https://github.com/rafaelhenriquess>
   <img height ="180cm" src="https://github-readme-stats.vercel.app/api?username=rafaelhenriquess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height ="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenriquess&layout=compact&langs_count=16&theme=dracula"/>
 <div style="display: inline-block"><br>
