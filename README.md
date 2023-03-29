@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
-  <img height ="180cm" src="https://github-readme-stats.vercel.app/api?username=rafaelhenriquess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height ="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenriquess&layout=compact&langs_count=16&theme=dark"/>
+  <img height ="180cm" src="https://github-readme-stats.vercel.app/api?username=rafaelhenriquess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height ="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhenriquess&layout=compact&langs_count=16&theme=dracula"/>
 <div style="display: inline-block"><br>
   <img align="center" alt"Rafa-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
   <img align="center" alt"Rafa-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
