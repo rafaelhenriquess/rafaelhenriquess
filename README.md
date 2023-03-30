@@ -1,7 +1,7 @@
 ### Olá, tudo bem? eu sou o Rafael Henriques 👋
 
-- 🔭 Hoje estudo Front-end & Back-end, com foco em Front-end.
-- 🌱 Estudando JavaScript juntamente com o freamwork React.
+- 🔭 Hoje estudo Frontend & Backend, com foco em Frontend.
+- 🌱 Estudando Javascript juntamente com o freamwork React.
 - 💬 Você vai me encontrar no e-mail: rafaelhenriquess@outlook.com.br
 - 😄🤣😊
 
