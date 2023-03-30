@@ -3,7 +3,7 @@
 - 🔭 Hoje estudo Front-end & Back-end, com foco em Front-end.
 - 🌱 Estudando JavaScript juntamente com o freamwork React.
 - 💬 Você vai me encontrar no e-mail: rafaelhenriquess@outlook.com.br
-- 😄 Pronomes: Ele/Dele
+- 😄🤣😊
 
 <div>
   <a href=https://github.com/rafaelhenriquess>
